@@ -1,6 +1,6 @@
 # Graduation-Project
 Autonomous vehicles system is about self-driving systems using Deep learning and computer vision techniques 
-project mainly consists of 3 part :
+, project mainly consists of 3 part :
 1. my part is automotive system by computer vision techniques
 2. the Mobile Application by Flutter
 3. vehicle prototype by embedded systems development 
